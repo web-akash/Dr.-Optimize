@@ -1,0 +1,2 @@
+function naechstertermin() { document.getElementById('naechstertermin_text').innerHTML = '<br>N&auml;chstm&ouml;glicher Termin am 11.03.2022.'; } 
+ function next_appointment() { document.getElementById('naechstertermin_text').innerHTML = '<br>Next available appointment is on 03/11/2022.'; }
